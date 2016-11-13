@@ -20,7 +20,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Buy a Phone</a>
+                <a class="navbar-brand" href="/">Buy a Phone</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -32,10 +32,10 @@
                         <a href="#">Services</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="contact">Contact</a>
                     </li>
                     <li>
-                        <a href="#">Login</a>
+                        <a href="login">Login</a>
                     </li>
                 </ul>
             </div>

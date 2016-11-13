@@ -16,6 +16,4 @@
 //});
 Route::get('/','Home\HomeControllers@index');
 Route::get('/login','Login\LoginController@index');
-//Route::get('/login', function () {
-  //  return view('login.index');
-//});
+Route::get('/contact','Contact\ContactController@index');

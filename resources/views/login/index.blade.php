@@ -5,8 +5,9 @@ login
 @section('content')
 <div class="col-md-4"></div>
 <div class="col-md-4">
-<div class="text-center" style="padding:50px 0">
-	<div class="logo"><b>Login</b></div>
+	<div class="well well-sm contactBox">
+		<div class="text-center" style="padding:50px 0">
+			<div class="logo"><b>Login</b></div></br>
 	<!-- Main Form -->
 	<div class="login-form-1">
 		<form id="login-form" class="text-left">
@@ -36,6 +37,8 @@ login
 	</div>
 	<!-- end:Main Form -->
 </div>
+
+	</div>
 
 </div>
 

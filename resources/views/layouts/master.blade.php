@@ -5,7 +5,7 @@
     <title>@yield('title')</title>
 </head>
 
-<body>
+<body class="background-color">
     @include('includes.header')
     <div class="container">
         @yield('content')
